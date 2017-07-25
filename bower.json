@@ -1,0 +1,29 @@
+{
+  "name": "mychat",
+  "description": "Chatting application using Node.js, MQTT and MongoDB",
+  "main": "app.js",
+  "authors": [
+    "Imrul Kais Khan <imrul69@gmail.com>"
+  ],
+  "license": "MIT",
+  "keywords": [
+    "Real-time",
+    "Chat",
+    "Node.js",
+    "MQTT",
+    "MongoDB"
+  ],
+  "homepage": "www.examwarrior.com",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "bootstrap-css": "^3.3.7",
+    "jquery": "^3.2.1"
+  }
+}
